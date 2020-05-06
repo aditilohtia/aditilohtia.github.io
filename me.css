@@ -1,0 +1,153 @@
+.intro {
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+
+@viewport {
+    width: device-width;
+    zoom: 1.0;
+}
+
+@-ms-viewport {
+    width: device-width ;
+  }
+
+  @media screen and (max-width: 800px) {
+    .left, .main, .right {
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+    }
+  }
+
+.introtext {
+    font-family: 'B612', sans-serif;
+    font-size: medium;
+    float: right;
+    text-align: center;
+    padding-top: 5%;
+    padding-right: 10%;
+}
+.rome {
+    height: auto;
+    width: 40%;
+}
+
+.btn {
+    font-family: 'B612', sans-serif;
+}
+
+.Projects {
+    background-color white;
+    padding-bottom: 2%;
+}
+.meheading {
+    font-family: 'B612', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    background-color: #62606c;
+    color: white;
+}
+
+.navbar-brand {
+    font-size: x-large;
+    font-family: 'B612', sans-serif;
+}
+.navbar-nav {
+    font-size: large;
+    font-family: 'B612', sans-serif;
+}
+
+.charity {
+    height: auto;
+    width: 40%;
+}
+
+.projtext {
+    font-family: 'B612', sans-serif;
+    font-size: large;
+}
+
+.projp {
+    font-family: 'B612', sans-serif;
+    font-size: small;
+}
+
+.charitytext, .embedtext {
+    float: right;
+}
+
+.charityproj  {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.solartracker {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 3%;
+}
+
+.solarpar {
+    float: left;
+}
+
+.solar1, .solar2 {
+    height: auto;
+    width: 30%;
+}
+
+.embedpic {
+    height: auto;
+    width: 40%;
+}
+
+.activities {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 30%;
+    padding-top: 1%;
+}
+
+.card {
+    width: 33%;
+    height: auto;
+    float: left;
+    font-family: 'B612', sans-serif;
+}
+
+
+.wistem {
+    height: auto;
+    width: 29%;
+}
+
+.tennis {
+    height: auto;
+    width: 26%;
+}
+
+.travel {
+    height: auto;
+    width: 26%;
+}
+
+#Contact {
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+
+.contacttext {
+    font-family: 'B612', sans-serif;
+    font-size: large;
+    text-align: center;
+    padding-top: 1%;
+
+}
+
+.github, .email, .linkedin {
+    height: auto;
+    width: 5%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
