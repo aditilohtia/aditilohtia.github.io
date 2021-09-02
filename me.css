@@ -105,8 +105,9 @@
 .activities {
     padding-left: 10%;
     padding-right: 10%;
-    padding-bottom: 30%;
+    --padding-bottom: 30%;
     padding-top: 1%;
+    margin-bottom: 0;
 }
 
 .card {
@@ -122,6 +123,11 @@
     width: 29%;
 }
 
+.engambass {
+    height: auto;
+    width: 26%;
+}
+
 .tennis {
     height: auto;
     width: 26%;
@@ -130,6 +136,17 @@
 .travel {
     height: auto;
     width: 26%;
+    
+}
+
+.entsoc {
+    height: auto;
+    width: 26%;
+}
+
+.explore {
+    height: auto;
+    width: 37%;
 }
 
 #Contact {
